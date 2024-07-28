@@ -33,17 +33,3 @@ style.css: archivo de estilos CSS para la página
 bootstrap.min.css: archivo de estilos CSS de Bootstrap 5
 
 bootstrap.bundle.min.js: archivo de JavaScript de Bootstrap 5
-
-Instrucciones para ejecutar el proyecto:
-
-Clona el repositorio en tu máquina local
-
-Abre el archivo index.html en un navegador web
-
-Notas:
-
-El proyecto utiliza Bootstrap 5 para el diseño y la funcionalidad
-
-El logo de Disney+ es una marca registrada y se utiliza solo para fines de demostración
-
-El formulario de inicio de sesión no está funcional y se utiliza solo para fines de demostración
