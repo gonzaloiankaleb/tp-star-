@@ -1,0 +1,85 @@
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.container-fluid {
+    flex: 1;
+}
+
+.footer {
+    margin-top: auto;
+    padding: 20px;
+}
+
+
+body {
+    background: linear-gradient(to bottom, rgba(29, 21, 42, 1), rgba(29, 21, 42, 0.8));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.custom-gradient-btn {
+    background: linear-gradient(to bottom, rgb(96, 91, 104), rgba(29, 21, 42, 0.8)) !important;
+    border: none !important;
+    color: white !important;
+}
+
+.custom-gradient-btn:hover {
+    background: linear-gradient(to bottom, rgb(106, 101, 114), rgba(29, 21, 42, 0.8)) !important;
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.logo {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 3rem;
+}
+
+.logo-text {
+    margin: 0 5px;
+}
+
+.logo-star {
+    background: linear-gradient(45deg, #f05a28, #ec008c);
+    -webkit-background-clip: text;
+    color: transparent;
+    margin: 0 5px;
+    font-size: 4rem;
+}
+
+.logo-plus {
+    font-size: 3rem;
+    margin-left: 5px;
+}
+
+.tamaño-texto {
+    font-size: 12px;
+}
+
+.texto-pequeno {
+    font-size: 15px;
+
+
+}
+
+footer ul.nav a {
+    color: #fff !important;
+
+}
+
+.texto-pequeno2 {
+    font-size: 12px;
+}
